@@ -13,6 +13,10 @@
 <a href="https://www.prisma.io/" target="_blank"> <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="30" height="30"/> Prisma </a> <br><br>
 <a href="https://trpc.io/" target="_blank"> <img src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" alt="trpc" width="30" height="30"/> tRPC </a> <br><br>
 
+  ## Equipo
+<a href="https://github.com/TFGHomePlanner/HomePlanner/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TFGHomePlanner/HomePlanner" />
+</a>
 
 
 

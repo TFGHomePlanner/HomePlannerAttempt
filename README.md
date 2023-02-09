@@ -15,7 +15,7 @@
 
   ## Equipo
 <a href="https://github.com/TFGHomePlanner/HomePlanner/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TFGHomePlanner/HomePlanner" />
+  <img src="https://contrib.rocks/image?repo=TFGHomePlanner/HomePlannerAttempt" />
 </a>
 
 
